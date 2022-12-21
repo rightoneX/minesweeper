@@ -3,7 +3,7 @@
     width: 400px;
     display: flex;
     flex-wrap: wrap;
-    background-color: gray;
+    background-color: rgb(201, 201, 201);
 }
 
 .grid div {
@@ -12,7 +12,7 @@
 }
 
 .bomb {
-    background-color: orange;
+    /* background-color: orange; */
 }
 
 .checked {
